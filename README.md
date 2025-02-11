@@ -2,10 +2,10 @@
 
 About me:
 
-- 🔭 I’m currently working on finishing my college and getting a job
-- 🌱 I’m currently learning HTML5, CSS3, C
-- 🤔 I’m looking for help with Web Design and Web Development
-- 📫 How to reach me: tonny.feh@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my last hyperfocus was about ants
-<!-- - 👯 I’m looking to collaborate on web development -->
+- Name's Marco Antonio, but call me Tonny. I'm 19 years old.
+- Currently working on... nowhere. I'm unemployed.
+- Learning HTML5, CSS3, C
+  - Looking forward to learn Javascript
+- Looking for jobs around Web Development
+- Business e-mail: tonny.feh@gmail.com
+- Fun fact: my last hyperfocus was about ants
