@@ -9,4 +9,4 @@ About me:
   - Looking forward to learn React
 - Looking for jobs around programing
 - Business e-mail: tonny.feh@gmail.com
-- Fun fact: my current hyperfocus is on Python
+- Fun fact: my current hyperfocus is on Python and I'm proud of my progress so far
